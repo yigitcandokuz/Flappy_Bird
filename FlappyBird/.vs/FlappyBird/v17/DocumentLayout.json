@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\flappybird\\assets\\scripts\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\assets\\scripts\\pipemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\assets\\scripts\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T14:00:48.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PipeSpawnScript.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\Assets\\Scripts\\PipeSpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeSpawnScript.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\Assets\\Scripts\\PipeSpawnScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeSpawnScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:36:32.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeMove.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\Assets\\Scripts\\PipeMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeMove.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\Assets\\Scripts\\PipeMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:32:28.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\Assets\\Scripts\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BirdScript.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Masa\u00FCst\u00FC\\FlappyBird\\Assets\\Scripts\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BirdScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:40:38.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
